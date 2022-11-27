@@ -1,4 +1,4 @@
-#lang racket
+    #lang racket
 
 (define OrdenaAparX (lambda (pos L1)
 (cond
